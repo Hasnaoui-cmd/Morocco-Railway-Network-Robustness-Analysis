@@ -1,0 +1,45 @@
+# Railway Network Analysis - Python Dependencies
+# 
+# This file lists all required Python packages for the Railway Network Analysis project.
+# Install all dependencies with: pip install -r requirements.txt
+
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Network Analysis
+networkx>=3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Interactive Widgets
+ipywidgets>=8.0.0
+
+# Enhanced Python Shell
+IPython>=8.12.0
+
+# Additional Utilities (automatically installed with above packages)
+# These are typically dependencies of the main packages listed above
+# but are explicitly listed for clarity:
+
+# Data handling support
+python-dateutil>=2.8.2
+
+# Numerical computing support  
+scipy>=1.10.0
+
+# Color support for terminals
+colorama>=0.4.6
+
+# Python packaging
+setuptools>=65.0.0
+wheel>=0.40.0
+
+# Notebook extensions (optional but recommended)
+notebook>=7.0.0
+nbconvert>=7.0.0

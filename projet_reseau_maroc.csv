@@ -1,0 +1,26 @@
+Source,Target,Distance_km,Duree_min,Type_Train,Frequence_par_heure
+Tanger Ville,Kenitra,200,50,Al Boraq,7
+Kenitra,Rabat Agdal,40,25,Al Boraq,1.0
+Rabat Agdal,Casablanca Voyageurs,90,50,Al Boraq,1.0
+Kenitra,Sale Tabriquet,35,30,TNR,2.0
+Sale Tabriquet,Rabat Ville,5,10,TNR,2.0
+Rabat Ville,Rabat Agdal,3,5,TNR,2.0
+Rabat Agdal,Casablanca Port,90,60,TNR,2.0
+Casablanca Voyageurs,Casablanca Port,5,15,Navette,1.0
+Casablanca Voyageurs,Oasis,5,10,TNR,2.0
+Oasis,Aeroport Med V,25,30,Al Bidaoui,1.0
+Oasis,Settat,70,50,TNR,1.0
+Settat,Benguerir,110,80,Al Atlas,0.5
+Benguerir,Marrakech,75,50,Al Atlas,0.5
+Kenitra,Sidi Kacem,85,65,Al Atlas,7
+Sidi Kacem,Meknes,55,45,Al Atlas,0.5
+Meknes,Fes,60,40,Al Atlas,0.5
+Fes,Taza,120,100,Al Atlas,0.3
+Taza,Guercif,65,50,Al Atlas,0.3
+Guercif,Taourirt,55,45,Al Atlas,0.3
+Taourirt,Oujda,110,100,Al Atlas,0.2
+Taourirt,Nador,100,90,Al Atlas,0.2
+Benguerir,Safi,140,120,Al Atlas,0.2
+Casablanca Voyageurs,El Jadida,100,85,Al Atlas,0.5
+Tanger Ville,Asilah,40,45,Al Atlas,5
+Asilah,Sidi Kacem,100,90,Al Atlas,0.5
